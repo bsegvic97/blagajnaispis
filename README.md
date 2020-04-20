@@ -1,2 +1,0 @@
-# blagajnaispis
-Created with CodeSandbox
